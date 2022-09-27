@@ -1,3 +1,3 @@
 # axit
 My first site
-https://rolan8.github.io/axit/
+https://rolan8.github.io/first/
